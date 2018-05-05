@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://elevated.sh/</loc>
+    <loc>https://elevated.sh/</loc>
   </url>
   
   <url>
-    <loc>http://elevated.sh/categories/</loc>
+    <loc>https://elevated.sh/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://elevated.sh/tags/</loc>
+    <loc>https://elevated.sh/tags/</loc>
     <priority>0</priority>
   </url>
   
